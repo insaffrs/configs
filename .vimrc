@@ -11,6 +11,7 @@ inoremap <C-h> <left>
 inoremap <C-l> <right>
 
 nnoremap <space> :
+nnoremap ; :
 
 nnoremap <leader>n :NERDTreeFocus<CR>
 nnoremap <C-n> :NERDTree<CR>
