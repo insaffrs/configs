@@ -3,7 +3,7 @@ set number
 set tabstop=4
 set nobackup
 
-inoremap jj <esc>
+inoremap jk <esc>
 
 inoremap <C-j> <down>
 inoremap <C-k> <up>
